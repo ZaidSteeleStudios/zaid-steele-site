@@ -5,8 +5,6 @@ import './index.css';
 function App() {
   return (
     <div className="font-sans bg-white text-black">
-
-      {/* Hero Section */}
       <section className="bg-black text-white py-20 px-6 text-center">
         <h1 className="text-4xl md:text-6xl font-bold mb-6">We Handle the Back End, You Shine on the Front.</h1>
         <p className="text-lg italic mb-8">Relatable. Charismatic. Fashionable.</p>
@@ -21,7 +19,6 @@ function App() {
           We bring your ideas to life — and make sure they feel right.
         </p>
       </section>
-
     </div>
   );
 }
